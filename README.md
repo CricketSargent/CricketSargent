@@ -10,4 +10,4 @@ course on **[Codecademy](https://www.codecademy.com/)**
 You can also check me out on
 my website **[here](http://cricketsargent.com/)**
 
-#### I hope you have a nice day! :smile:
+### I hope you have a nice day! :smile:
