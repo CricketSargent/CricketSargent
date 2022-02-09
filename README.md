@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @CricketSargent
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Web Design and Back End Development
-- 📫 How to reach me ... cricketsargent.com
+#Hey There!
+##Welcome to my GitHub Profile
 
-<!---
-CricketSargent/CricketSargent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently I am studying *Web Development* at
+[Ivy Tech Community College](https://www.ivytech.edu/)
+
+I am also working on the *Back-End Engineer*
+course on [Codecademy](https://www.codecademy.com/)
+
+You can also check me out on
+my website [here](http://cricketsargent.com/)
+
+####I hope you have a nice day
